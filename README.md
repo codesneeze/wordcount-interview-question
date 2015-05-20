@@ -16,6 +16,6 @@ Well, it's up to you - but anyhow, here here are some suggestions where to start
 *  The code currently only extracts words, and it doesn't do it very well. How can you make it better?
 *  What other methods could you use to input data to the program?
 
-Your code should compile and run on a Windows environment with Java 7. If your set up is any different, do let us know!
+Your code should compile and run on a Windows environment with Java 8. If your set up is any different, do let us know!
 
 Good luck, and may the wordcounts be with you.
